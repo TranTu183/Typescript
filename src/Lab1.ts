@@ -47,7 +47,7 @@ function isPrime(n: number): boolean {
 
 
 
-console.log(rectangleInfo(4, 6));     // { perimeter: 20, area: 24 }
-console.log(sumNumbers(1, 2, 3, 4));  // 10
-console.log(countCharacter("hello", "l")); // 2
-console.log(isPrime(11)); // true
+console.log(rectangleInfo(4, 6));    
+console.log(sumNumbers(1, 2, 3, 4));  
+console.log(countCharacter("hello", "l"));
+console.log(isPrime(11));
